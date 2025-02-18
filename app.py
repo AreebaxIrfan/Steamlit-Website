@@ -20,7 +20,7 @@ st.markdown("""
         --secondary: #8338ec;
         --accent: #ff006e;
         --background: #1a1a2e;
-        --card-bg: #A9A9A9;
+        --card-bg: #4a4a4a;
         --text: #e0e1dd;
     }
     
@@ -43,6 +43,7 @@ st.markdown("""
     .card {
         background: var(--card-bg);
         border-radius: 8px;
+        color: white;
         padding: 1.5rem;
         margin: 1rem 0;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -63,6 +64,7 @@ st.markdown("""
         height: 10px;
         background: rgba(255, 255, 255, 0.1);
         border-radius: 5px;
+
         overflow: hidden;
         margin-top: 1rem;
     }
