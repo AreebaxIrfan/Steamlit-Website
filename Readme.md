@@ -2,7 +2,7 @@
 
 Welcome to the **Growth Mindset Companion**, a web app designed to foster personal growth through daily challenges, motivational quotes, and reflective journaling. Built with a modern tech stack, this app helps users embrace a growth mindset with actionable tools and resources.
 
-🌐 **[Live Demo](https://your-app-url.vercel.app)** | 📧 **Contact**: the.areebairfan@gmail.com
+🌐 **[Live Demo](https://growth-mindset-companion.streamlit.app/)** | 📧 **Contact**: the.areebairfan@gmail.com
 
 ## Features
 
