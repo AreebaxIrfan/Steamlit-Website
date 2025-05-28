@@ -9,6 +9,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
+
 # Enhanced professional CSS with dark theme
 st.markdown("""
     <style>
